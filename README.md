@@ -12,8 +12,8 @@ problems and to find a pattern in it to find a solution.
   </a>
   <br/>
   <a href="https://github.com/rajat1106/github-readme-stats" style="margin-top:100px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat1106&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
-  </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat1106&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
+ </a>
  <a href="https://github.com/rajat1106/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat1106&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
   </a>
@@ -25,6 +25,7 @@ problems and to find a pattern in it to find a solution.
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="python" width="40" height="40"/> </a>  
 <br>
 <br>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
