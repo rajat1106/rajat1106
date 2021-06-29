@@ -2,7 +2,7 @@
 I am Rajat Harne, a Computer Science undergrad. I like to explore different tools and technologies and use them to build applications. I like to work on real life based complex 
 problems and to find a pattern in it to find a solution. 
 
-##Cover photo
+
 <img align="center" src="https://desygner.com/design/displaypage/QUMgX8L6esV/1/c4ca4238a0b923820dcc509a6f75849b/1754" width="800">
 
 ## GitHub Stats 📈
@@ -24,6 +24,9 @@ problems and to find a pattern in it to find a solution.
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <br>
+<br>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 
 
