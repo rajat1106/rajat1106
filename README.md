@@ -2,7 +2,23 @@
 I am Rajat Harne, a Computer Science undergrad. I like to explore different tools and technologies and use them to build applications. I like to work on real life based complex 
 problems and to find a pattern in it to find a solution. 
 
+##Cover photo
 <img align="center" src="https://desygner.com/design/displaypage/QUMgX8L6esV/1/c4ca4238a0b923820dcc509a6f75849b/1754" width="800">
+
+## GitHub Stats 📈
+<div align="center">
+  <a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat1106&theme=black-ice&hide_border=true" width="800">
+  </a>
+  <br/>
+  <a href="https://github.com/rajat1106/github-readme-stats" style="margin-top:100px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat1106&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
+  </a>
+ <a href="https://github.com/rajat1106/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat1106&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
+  </a>
+</div>
+<br/><br/>
 
 
 
