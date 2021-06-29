@@ -3,7 +3,7 @@ I am Rajat Harne, a Computer Science undergrad. I like to explore different tool
 problems and to find a pattern in it to find a solution. 
 
 
-<img align="center" src="https://desygner.com/design/displaypage/QUMgX8L6esV/1/c4ca4238a0b923820dcc509a6f75849b/1754" width="800">
+<img align="center" src="C:\Users\rajat\Downloads\git banner" width="800">
 
 ## GitHub Stats 📈
 <div align="center">
