@@ -2,6 +2,7 @@
 I am Rajat Harne, a Computer Science undergrad. I like to explore different tools and technologies and use them to build applications. I like to work on real life based complex 
 problems and to find a pattern in it to find a solution. 
 
+<img align="center" src="https://desygner.com/design/displaypage/QUMgX8L6esV/1/c4ca4238a0b923820dcc509a6f75849b/1754" width="800">
 <!--
 **rajat1106/rajat1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
