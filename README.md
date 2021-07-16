@@ -4,7 +4,7 @@ problems and to find a pattern in it to find a solution.
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Machine+Learning+Enthusiast;Python+Developer;Flutter+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Machine+Learning+Enthusiast;Flutter+Developer"></a>
 </p>
 
 
