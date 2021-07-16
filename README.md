@@ -2,6 +2,11 @@
 I am Rajat Harne, a Computer Science undergrad. I like to explore different tools and technologies and use them to build applications. I like to work on real life based complex 
 problems and to find a pattern in it to find a solution. 
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Machine+Learning+Enthusiast;Python+Developer;Flutter+Developer"></a>
+</p>
+
 
 <img align="center" src="https://github.com/rajat1106/rajat1106/blob/main/git%20banner.png" width="800">
 
