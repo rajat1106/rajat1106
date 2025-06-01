@@ -1,5 +1,5 @@
 ### Hi there!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-I am Rajat Harne, a Computer Science undergrad. I like to explore different tools and technologies and use them to build applications. I like to work on real life based complex 
+I am Rajat Harne, a Computer Science grad. Currently Working in TIAA as Kafka Admin. I like to explore different tools and technologies and use them to build applications. I like to work on real life based complex 
 problems and to find a pattern in it to find a solution. 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
